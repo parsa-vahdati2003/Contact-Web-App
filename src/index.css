@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@theme {
+  /* font family */
+  --font-mySans: system-ui, "Segoe UI", Roboto, sans-serif;
+
+  /*  color */
+  --color-base: #304ffe;
+  --color-lightBlue: #bbdefb;
+  --color-secondry: #808080;
+  --color-alert: #ffebee;
+  --color-alertBg: #f44336;
+
+  /* break point */
+
+  --breakpoint-xs: 530px;
+  --breakpoint-x: 840;
+  --breakpoint-lg: 1000px;
+}
